@@ -1,2 +1,2 @@
 # LeanOfThought-Official
-This is the official implementation for MA-LoT.
+The code, repo, and dataset are coming soon!
