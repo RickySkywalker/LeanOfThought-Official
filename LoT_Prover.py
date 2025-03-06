@@ -400,6 +400,7 @@ class LoT_Prover:
                     "Proof": processed_thm_prove_ls[i], 
                     "LongCoT": processed_LongCoT_content[i]
                 }
+        corrected_theorems = eval_results
             
         # if non of the proof is valid, then use the corrector to correct the proof
         for i in range(max_search_depth):
