@@ -1,8 +1,8 @@
 # LeanOfThought-Official
 
 This is the official repository for all the MA-LoT codes. In this repo, we provide an interactive way of using our proposed pipeline to solve Lean4 theorems.
-    * Paper link: (https://arxiv.org/abs/2503.03205)[https://arxiv.org/abs/2503.03205]
-    * LoT-Solver Model: (https://huggingface.co/RickyDeSkywalker/LoT-Solver)[https://huggingface.co/RickyDeSkywalker/LoT-Solver]
+* Paper link: [https://arxiv.org/abs/2503.03205](https://arxiv.org/abs/2503.03205)
+* LoT-Solver Model: [https://huggingface.co/RickyDeSkywalker/LoT-Solver](https://huggingface.co/RickyDeSkywalker/LoT-Solver)
 
 The current version of the code only supports MA-LoT inference of a single theorem; the step-by-step usage can be found in `quick_start.ipynb`.
 
