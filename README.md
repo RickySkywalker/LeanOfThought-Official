@@ -4,6 +4,7 @@ This is the official repository for all the MA-LoT codes. In this repo, we provi
 * Paper link: [https://arxiv.org/abs/2503.03205](https://arxiv.org/abs/2503.03205)
 * LoT-Solver (Based on DeepSeek-Prover-v1.5-SFT): [https://huggingface.co/RickyDeSkywalker/LoT-Solver](https://huggingface.co/RickyDeSkywalker/LoT-Solver)
 * LoT-Solver (Based on Godel-Prover-SFT): [https://huggingface.co/RickyDeSkywalker/LoT-Solver-Godel](https://huggingface.co/RickyDeSkywalker/LoT-Solver-Godel)
+* Website: [https://ma-lot.github.io/](https://ma-lot.github.io/)
 
 The current version of the code only supports MA-LoT inference of a single theorem; the step-by-step usage can be found in `quick_start.ipynb`.
 
