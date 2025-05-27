@@ -40,7 +40,7 @@ See `quick_start.ipynb`.
 ## Reference
 ```bib
 @misc{wang2025malot,
-      title={MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving}, 
+      title={MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving}, 
       author={Ruida Wang and Rui Pan and Yuxin Li and Jipeng Zhang and Yizhen Jia and Shizhe Diao and Renjie Pi and Junjie Hu and Tong Zhang},
       year={2025},
       eprint={2503.03205},
