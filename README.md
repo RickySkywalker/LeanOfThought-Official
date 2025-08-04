@@ -49,3 +49,7 @@ See `quick_start.ipynb`.
       url={https://arxiv.org/abs/2503.03205}, 
 }
 ```
+
+## Acknowledgement
+We gratefully acknowledge the computational resources provided under project codes CIS240529 and CIS240076, which were essential to the completion of this work.
+This project would not have been possible without the support of [DeltaAI](https://delta.ncsa.illinois.edu/delta-delta-ai/) and [Delta](https://delta.ncsa.illinois.edu/).
