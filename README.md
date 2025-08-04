@@ -51,5 +51,4 @@ See `quick_start.ipynb`.
 ```
 
 ## Acknowledgement
-We gratefully acknowledge the computational resources provided under project codes CIS240529 and CIS240076, which were essential to the completion of this work.
-This project would not have been possible without the support of [DeltaAI](https://delta.ncsa.illinois.edu/delta-delta-ai/) and [Delta](https://delta.ncsa.illinois.edu/).
+This research used both the DeltaAI advanced computing and data resource, which is supported by the National Science Foundation (award OAC 2320345) and the State of Illinois, and the Delta advanced computing and data resource which is supported by the National Science Foundation (award OAC 2005572) and the State of Illinois.. Delta and DeltaAI are joint efforts of the University of Illinois Urbana-Champaign and its National Center for Supercomputing Applications.
